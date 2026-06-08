@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { Sun, Moon, Menu, X } from "lucide-react";
 import type { Theme } from "../../App";
+import Logo from "/ATLogo.png";
 
 interface NavigationProps {
   theme: Theme;
@@ -58,10 +59,9 @@ export default function Navigation({ theme, onThemeToggle }: NavigationProps) {
           {/* Logo */}
           <button
             onClick={() => navigate("/")}
-            className="px-3 py-1.5 rounded-full text-sm font-bold mr-2 transition-colors"
             style={{ color: "var(--text-primary)" }}
           >
-            AT
+            <img src={Logo} alt="Logo" className="h-11 w-11" />
           </button>
 
           <div

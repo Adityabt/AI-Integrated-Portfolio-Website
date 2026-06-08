@@ -378,6 +378,7 @@ export default function ExperiencePage() {
             fontWeight: 500,
             letterSpacing: "0.08em",
             textTransform: "uppercase" as const,
+            marginTop: 20,
           }}
         >
           <span
