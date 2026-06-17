@@ -282,10 +282,10 @@ const PROJECTS: Project[] = [
 },
 {
   id: "dsa-quiz",
-  title: "DSA Quiz Platform",
+  title: "AlgoQuizr: DSA Quiz Platform",
   subtitle: "Interactive Data Structures & Algorithms Learning Tool",
   category: "EdTech · Frontend",
-  status: "Live",
+  status: "live",
   featured: false,
   image: algoquizrImg, // swap with actual asset once you have it
   accent: "var(--accent-3)",
