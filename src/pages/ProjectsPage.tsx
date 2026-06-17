@@ -312,11 +312,11 @@ const PROJECTS: Project[] = [
 
     "Resend API",
 
-    "Vercel"
+    "Vercel",
 
     "Render",
 
-    "Full-Stack Development"
+    "Full-Stack Development",
 
   ],
   links: {},
