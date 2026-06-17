@@ -283,34 +283,38 @@ const PROJECTS: Project[] = [
 {
   id: "dsa-quiz",
   title: "AlgoQuizr: DSA Quiz Platform",
-  subtitle: "Interactive Data Structures & Algorithms Learning Tool",
-  category: "EdTech · Frontend",
+  subtitle: "Full-Stack Data Structures & Algorithms Practice Platform",
+  category: "EdTech · Full Stack",
   status: "live",
   featured: false,
   image: algoquizrImg, // swap with actual asset once you have it
   accent: "var(--accent-3)",
   accentSecondary: "var(--accent)",
   descriptionType: "story",
-  description: "A full-stack learning platform focused on Data Structures and Algorithms, designed to help students practice, assess, and strengthen their problem-solving skills. The platform is currently being rebuilt with secure authentication, quiz management, performance tracking, and a modern user experience supported by a dedicated backend and database layer. The project serves as an opportunity to deepen my understanding of full-stack architecture, API design, authentication workflows, and scalable web application development.",
+  description: "A production-ready full-stack learning platform built to help students and developers prepare for technical interviews through structured DSA practice. Features 200 topic-based quiz questions across 10 DSA topics (Arrays, Trees, Graphs, Dynamic Programming, and more), each with detailed explanations. Includes secure JWT authentication with forgot/reset password via email, a personalized dashboard with real-time progress tracking, day streaks, and performance analytics, a collapsible sidebar with Practice, Progress, Profile, and Settings pages, topic-based quiz flow with attempt persistence and score history, earned badges system, and a scroll-driven animated landing page. Fully deployed with a dedicated backend API, cloud database, and CI/CD via GitHub.",
   technologies: [
 
     "React",
+
+    "TypeScript",
+
+    "Framer Motion",
 
     "Node.js",
 
     "Express.js",
 
-    "MongoDB",
+    "MongoDB Atlas",
 
     "JWT Authentication",
 
     "REST APIs",
 
-    "JavaScript",
+    "Resend API",
 
-    "HTML",
+    "Vercel"
 
-    "CSS",
+    "Render",
 
     "Full-Stack Development"
 
