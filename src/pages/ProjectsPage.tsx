@@ -10,6 +10,7 @@ import envirosenseImg from "../assets/projects/envirosense.png";
 import portfolioImg  from "../assets/projects/portfolio.png";
 import sqacImg       from "../assets/projects/sqac.png";
 import chatbotImg    from "../assets/projects/chatbot.png";
+import algoquizrImg  from "../assets/projects/algoquizr.png";
 
 type Project = {
   id: string;
@@ -284,9 +285,9 @@ const PROJECTS: Project[] = [
   title: "DSA Quiz Platform",
   subtitle: "Interactive Data Structures & Algorithms Learning Tool",
   category: "EdTech · Frontend",
-  status: "in-progress",
+  status: "Live",
   featured: false,
-  image: chatbotImg, // swap with actual asset once you have it
+  image: algoquizrImg, // swap with actual asset once you have it
   accent: "var(--accent-3)",
   accentSecondary: "var(--accent)",
   descriptionType: "story",
@@ -315,7 +316,6 @@ const PROJECTS: Project[] = [
 
   ],
   links: {},
-  placeholderGradient: "linear-gradient(135deg, #f59e0b 0%, #ef4444 50%, #8b5cf6 100%)",
 },
 ];
 
