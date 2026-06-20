@@ -33,7 +33,7 @@ I'm building toward roles where I can own problems end to end — from architect
       institution: "SRM Institute of Science and Technology",
       location: "Kattankulathur, Tamil Nadu",
       duration: "2023 – 2027",
-      cgpa: "8.79",
+      cgpa: "8.82",
       highlights: [
         "Focused on software engineering, AI/ML, and full-stack development",
         "Built production-grade projects spanning computer vision, IoT, and web platforms",
