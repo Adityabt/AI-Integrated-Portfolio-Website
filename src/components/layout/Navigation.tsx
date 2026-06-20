@@ -105,7 +105,7 @@ export default function Navigation({ theme, onThemeToggle }: NavigationProps) {
           />
 
           <a
-            href="/resume.pdf"
+            href="/Aditya Thakur_External Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-3 py-1.5 rounded-full text-sm transition-colors"
