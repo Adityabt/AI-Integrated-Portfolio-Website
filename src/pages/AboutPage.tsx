@@ -53,6 +53,7 @@ const SEMESTERS = [
   { sem: "Sem 3", cgpa: 8.30 },
   { sem: "Sem 4", cgpa: 8.80 },
   { sem: "Sem 5", cgpa: 8.65 },
+  { sem: "Sem 6", cgpa: 9.00 },
 ];
 
 type Tech = {
