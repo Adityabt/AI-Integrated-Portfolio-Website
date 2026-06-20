@@ -12,5 +12,5 @@ export const portfolioData = {
     "SQAC Club Website",
     "DSA Quiz Web App"
   ],
-  education: "B.Tech in Electronics & Computer Engineering, 3rd Year"
+  education: "B.Tech in Electronics & Computer Engineering, 4th Year"
 };
