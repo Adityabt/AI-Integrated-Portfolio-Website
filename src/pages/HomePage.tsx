@@ -12,7 +12,7 @@ interface HomePageProps {
 const STATS = [
   { value: "3",    label: "Internships"          },
   { value: "10+",   label: "Projects Shipped"     },
-  { value: "8.80", label: "CGPA"                 },
+  { value: "8.82", label: "CGPA"                 },
   { value: "4+", label: "AI-Powered Applications" }
 ];
 
