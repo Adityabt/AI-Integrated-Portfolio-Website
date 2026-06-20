@@ -153,7 +153,7 @@ export default function HomePage({ onAssistantOpen }: HomePageProps) {
   </button>
 
   <a
-    href={portfolioData.links.resume ?? "/resume.pdf"}
+    href={portfolioData.links.resume ?? "/Aditya Thakur_External Resume.pdf"}
     target="_blank"
     rel="noopener noreferrer"
     className="btn btn-secondary"
