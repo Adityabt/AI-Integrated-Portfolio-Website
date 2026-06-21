@@ -276,7 +276,7 @@ export default function AboutPage() {
                   {[
                     { val: "3",    lbl: "Internships"        },
                     { val: "10+",   lbl: "Projects Shipped"   },
-                    { val: "8.80", lbl: "CGPA"               },
+                    { val: "8.82", lbl: "CGPA"               },
                     { val: "4+",   lbl: "AI Powered Applications" },
                   ].map((s) => (
                     <div key={s.lbl}>
@@ -410,7 +410,7 @@ export default function AboutPage() {
                     background: "var(--accent-gradient)",
                     WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
                   }}>
-                    8.80
+                    8.82
                   </div>
                   <div style={{ fontSize: "0.7rem", color: "var(--text-tertiary)", marginTop: "-2px" }}>Current CGPA</div>
                 </div>
